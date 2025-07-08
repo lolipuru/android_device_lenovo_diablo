@@ -93,8 +93,6 @@
             <usecase>
                 <name>PAL_STREAM_LOW_LATENCY</name>
                 <custom-config key="zui-dmic">
-                    <channels>2</channels>
-                    <snd_device_name>dmic-endfire</snd_device_name>
                 </custom-config>
                 <custom-config key="amic1">
                     <channels>1</channels>
@@ -124,8 +122,6 @@
             <usecase>
                 <name>PAL_STREAM_DEEP_BUFFER</name>
                 <custom-config key="zui-dmic">
-                    <channels>2</channels>
-                    <snd_device_name>dmic-endfire</snd_device_name>
                 </custom-config>
                 <custom-config key="amic1">
                     <channels>1</channels>
